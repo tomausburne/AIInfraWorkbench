@@ -1,0 +1,8 @@
+{
+  "ProjectName": "AIInfraWorkbench",
+  "BaselinePowerShellVersion": "5.1",
+  "DefaultReportFolder": "Reports",
+  "DefaultInventoryFolder": "Inventory",
+  "ReadOnlyByDefault": true
+}
+

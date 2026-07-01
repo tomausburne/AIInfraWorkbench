@@ -1,0 +1,27 @@
+# PowerShell
+*.ps1xml
+*.pssc
+*.psrc
+
+# Generated output
+Reports/*
+!Reports/README.md
+Inventory/*
+!Inventory/README.md
+Logs/*
+!Logs/README.md
+
+# Editor files
+.vscode/
+*.code-workspace
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
