@@ -7,10 +7,11 @@
     Copyright = '(c) AIInfraWorkbench. All rights reserved.'
     Description = 'PowerShell 5.1-compatible infrastructure discovery and documentation module.'
     PowerShellVersion = '5.1'
-    FunctionsToExport = @(
-        'Get-AIForestSummary',
-        'New-AIForestSummaryReport'
-    )
+FunctionsToExport = @(
+    'Get-AIDomainControllerInventory',
+    'Get-AIForestSummary',
+    'New-AIForestSummaryReport'
+)
     CmdletsToExport = @()
     VariablesToExport = '*'
     AliasesToExport = @()
