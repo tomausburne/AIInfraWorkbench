@@ -8,9 +8,12 @@
     Description = 'PowerShell 5.1-compatible infrastructure discovery and documentation module.'
     PowerShellVersion = '5.1'
 FunctionsToExport = @(
+    'Get-AIADReplicationHealth',
     'Get-AIDomainControllerInventory',
     'Get-AIForestSummary',
     'Get-AIFSMORoleInventory',
+    'New-AIADReplicationHealthReport',
+    'New-AIDomainControllerMigrationReport',
     'New-AIForestSummaryReport'
 )
     CmdletsToExport = @()
