@@ -21,6 +21,7 @@ FunctionsToExport = @(
     'Test-AIADMigrationReadiness'
     'New-AIWorkbenchSummaryReport'
     'Test-AIWorkbenchPrerequisite'
+    'New-AIWorkbenchPrerequisiteReport'
 )
     CmdletsToExport = @()
     VariablesToExport = '*'
