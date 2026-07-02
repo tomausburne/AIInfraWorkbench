@@ -19,6 +19,7 @@ FunctionsToExport = @(
     'New-AIADDnsResolutionReport',
     'Test-AIADDnsResolution',
     'Test-AIADMigrationReadiness'
+    'New-AIWorkbenchSummaryReport'
 )
     CmdletsToExport = @()
     VariablesToExport = '*'
