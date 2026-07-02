@@ -12,6 +12,7 @@ FunctionsToExport = @(
     'Get-AIForestSummary',
     'Get-AIFSMORoleInventory',
     'New-AIForestSummaryReport'
+    'New-AIDomainControllerMigrationReport'
 )
     CmdletsToExport = @()
     VariablesToExport = '*'
