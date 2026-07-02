@@ -12,6 +12,7 @@ FunctionsToExport = @(
     'Get-AIDomainControllerInventory',
     'Get-AIForestSummary',
     'Get-AIFSMORoleInventory',
+    'New-AIADMigrationReadinessReport',
     'New-AIADReplicationHealthReport',
     'New-AIDomainControllerMigrationReport',
     'New-AIForestSummaryReport',
